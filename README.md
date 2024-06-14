@@ -1,1 +1,2 @@
 # MongoNodeTryout
+npm run <scriptname>
